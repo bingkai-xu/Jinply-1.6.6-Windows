@@ -1,0 +1,17 @@
+Jinply for Windows
+Version 1.6.6
+
+Double-click Jinply.bat. Jinply starts on this computer and opens in its own window, with no address bar and no browser tabs. Close the window to quit. Node.js does not need to be installed separately.
+
+The interface opens in English. The language can be changed from the menu inside the app.
+
+Sign in with password 123456.
+admin     System Admin
+laoban    Approver
+caiwu     Finance
+zhuguan   Dept. head
+yg01      Employee
+
+Data is stored in the data folder inside this folder. Copy the whole folder to keep the data.
+
+Unzip the folder before opening it. If Windows shows a protection prompt, choose More info, then Run anyway.
